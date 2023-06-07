@@ -6,13 +6,14 @@ const Hero = () => {
         <div className='hero-title'>
           <h1>Contentful CMS</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis earum
-            numquam dicta dolor incidunt officia aut ex at mollitia similique
-            debitis reiciendis eum, quisquam sunt harum exercitationem!
-            Delectus, id quia! Lorem, ipsum dolor sit amet consectetur
-            adipisicing elit. Quas labore voluptas cupiditate impedit a,
-            quisquam repellat. Illo saepe iste eveniet animi eius esse vel vitae
-            eos cupiditate. Ratione, labore quos. Lorem
+            Contentful is a headless content management system (CMS). You upload
+            your content (be it text, images, or video) to Contentful, and from
+            there can organize and edit it as you desire.Contentful gives your
+            business the ability to structure content and to scale it across
+            multiple channels and platforms, allowing developers and content
+            creators to work simultaneously, and ensuring that customers are
+            always interacting with the freshest version of your brand
+            experience.
           </p>
         </div>
         <div className='img-container'>
